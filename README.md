@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FindRoss
+- 👀 I’m interested in JavaScript, React, CSS, and making stuff.
+- 🌱 I’m currently learning a lot of different things. 
+- 💞️ I’m looking to collaborate on anything I can help with. 
